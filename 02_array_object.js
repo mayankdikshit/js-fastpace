@@ -23,5 +23,3 @@ function preparechai(type) {
 
 preparechai("masalaChai");
 preparechai("gingerChai");
-
-
