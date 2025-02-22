@@ -27,8 +27,28 @@ console.log(Math.min(5,4));
 console.log(Math.random() * 10);
 
 
-Math.floor
+// Math.floor 
 
+let firstName = "mayank";
+let lastName = "Dikshit"
+
+let fullName = firstName + " " + lastName;
+
+let myName = `hello ${firstName} ${lastName}, how are you?`;
+
+console.log(fullName)
+console.log(myName)
+
+let message = "Hello World";
+
+console.log(message.length);
+
+console.log(message.toLowerCase());
+console.log(message.toUpperCase());
+
+
+console.log(message.indexOf("W"));
+console.log(message.slice(0,5));
 
 
 
